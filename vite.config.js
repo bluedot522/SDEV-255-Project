@@ -8,4 +8,5 @@ export default defineConfig({
     apply: 'serve',
   },
   plugins: [react()],
+  base: '/SDEV-255-Project/',
 })
